@@ -4,7 +4,7 @@
     <string name="app_name">FacebookFriendsTrial</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-	<string name="app_id">611682778978467</string>
+	<string name="app_id"><your_app_id_here></string>
 	<string name="update_status">Update Status</string>
 	<string name="post_image">Post Image</string>
 	<string name="friends_list">Get friends List who are using the app</string>
